@@ -11,7 +11,7 @@
 # ### branch
 # Sets the branch to be deployed.
 
-set_default :branch, 'master'
+set_default :branch, 'default'
 
 namespace :hg do
   # ## Deploy tasks
